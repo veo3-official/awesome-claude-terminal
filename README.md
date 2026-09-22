@@ -61,4 +61,5 @@ A curated list for anyone searching claude terminal, which in practice means Cla
 
 Open a pull request with a link and a one-line reason; documentation pages are preferred over commentary.
 
+
 _Last reviewed: 2026-09-22_
